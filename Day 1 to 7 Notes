@@ -1,5 +1,0 @@
-# Ethernet Configuration
-There are many types of configurations available with different MCUs. Some MCUs let you configure the memory in the CubeMX, while others don’t. Some of the Boards have the MII Hardware, while other have RMII.  
-
-
-
