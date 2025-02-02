@@ -12,6 +12,17 @@ There are many types of configurations available with different MCUs. Some MCUs 
 
 ## QSPI  
 ## MPU (Memory Protection Unit)  
+-Memory Protection Unit is a piece of hardware in modern MCUs  
+-Prevents a process from accessing an unallocated region  
+-Allows privileged access to defined regions  
+-Can be controlled with attributes  
+-Monitors every transaction (including instruction fetch)  
+-Violation triggers fault exception  
+
+# Uses of MPU
+ Speculative Access
+ DMA Issues
+ Task Management
 
 
 
