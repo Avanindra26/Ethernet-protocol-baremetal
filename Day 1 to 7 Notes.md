@@ -50,3 +50,4 @@ There are many types of configurations available with different MCUs. Some MCUs 
 
 Resources used:-
 - STM32 ETHERNET by ControllersTech https://www.youtube.com/watch?v=8r8w6mgSn1A&list=PLfIJKC1ud8ggZKVtytWAlOS63vifF5iJC
+- MPU - https://core.slscorp.com/resources/blogs/160-fpga/281-memory-protection-unit.html
