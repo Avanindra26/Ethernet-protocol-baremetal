@@ -10,7 +10,12 @@ There are many types of configurations available with different MCUs. Some MCUs 
 3- Special memory configuration  
 4- Flash script
 
-## QSPI
+## QSPI  
+## MPU (Memory Protection Unit)  
+
+
+
+  
 
 
 
